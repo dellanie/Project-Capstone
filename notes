@@ -1,0 +1,26 @@
+Successfully concluded another impactful project utilizing a combination of Excel, SQL, Python, and Rest APIs. The project spanned approximately four months and provided a rewarding experience as we worked on a distinctive and socially valuable initiative.
+
+This project seamlessly blends elements of Data Engineering and Machine Learning. Notably, the data generation process involved leveraging advanced AI tools, including ChatGPT, to create textual data. Subsequently, this data was segmented into multiple CSV sheets to facilitate rapid integration.
+
+The process of data integration unfolded as follows:
+
+1. **Generation of Text Data:**
+   - Utilized ChatGPT and other AI tools to generate diverse textual data.
+
+2. **Excel to MySQL Using Load Data Infile Function:**
+   - Transferred the generated data from Excel to MySQL using the Load Data Infile function for efficient data storage.
+
+3. **MySQL to Jupyter Using PyMySQL Function:**
+   - Employed the PyMySQL function to seamlessly move data from MySQL to Jupyter for further analysis.
+
+4. **Machine Learning Models (KNN and LDA) for Text Data Interpretation:**
+   - Applied machine learning models such as KNN (K-Nearest Neighbors) and LDA (Latent Dirichlet Allocation) to interpret the textual data effectively.
+
+5. **Deployment Using Flask and Rest API:**
+   - Completed the deployment phase using Flask and Rest API, ensuring accessibility and functionality of the developed system.
+
+The outcome of this project, known as the Social Capital Toolkit, is designed to assist organizations in enhancing their social impact and catalyzing positive change within their communities. The toolkit facilitates the collation, sharing, and analysis of insights from 100 Justice, Equity, Diversity, and Inclusion (J.E.D.I.) consultants. Their perspectives on contemporary challenges related to diversity and inclusion in organizations are gathered, analyzed, and ranked based on popularity.
+
+The system enables these 100 J.E.D.I. consultants to submit their responses through a user-friendly Wix form. The collected data is then subjected to thorough analysis using Artificial Intelligence (AI) and Machine Learning (ML) techniques, identifying clusters of ideas and ranking them based on their popularity and impact.
+
+In summary, this project not only showcases technical proficiency in data engineering and machine learning but also serves a meaningful purpose by providing a platform for J.E.D.I. consultants to contribute and collectively address challenges related to diversity and inclusion. The use of advanced technologies and thoughtful integration processes enhances the efficiency and impact of the Social Capital Toolkit.
